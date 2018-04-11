@@ -1,2 +1,0 @@
-# GlacierWeb
-This is web
